@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ceb_cal": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
